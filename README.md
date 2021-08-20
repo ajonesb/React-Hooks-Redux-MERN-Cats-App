@@ -9,3 +9,6 @@ The App is called "Cats App" and it is a simple app that allows users to post di
 Setup:
 
 - run `npm install && npm start` for both client and server side to start the app
+
+## Demo
+Checkout Demo: https://catappmern.netlify.app/
