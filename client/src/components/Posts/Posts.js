@@ -6,6 +6,8 @@ import Post from './Post/Post';
 import useStyles from './styles';
 
 const Posts = ({ setCurrentId }) => {
+  // Retrieves data from redux with useSelector, fetches data from global redux store
+  // Initializes as a Hook
   const posts = useSelector((state) => state.posts);
   const classes = useStyles();
 
